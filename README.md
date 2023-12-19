@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # answerme
 
 A new Flutter project.
@@ -24,3 +25,7 @@ A Quiz Application In Flutter.
 # AnswerMe
 A Quiz App in Fluttter
 >>>>>>> 8c30e3f7d14f94c33d4f48a2ee9ed3bab55107e4
+=======
+# AnswerMe
+A Quiz App In Flutter.
+>>>>>>> 4b05cf2b25bc015c98c078dc69bc67b4e480fbbe
